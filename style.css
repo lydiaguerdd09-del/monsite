@@ -1,5 +1,5 @@
 body{
-    background-image:url(sige.jfif) ;
+    background-image:url("sige.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
