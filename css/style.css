@@ -1,0 +1,38 @@
+body{
+    background-image:url(/sige.jfif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+input{
+    width:100% ;
+    height:35px ;
+    background-color: blanchedalmond;
+}
+textarea{
+    background-color: blanchedalmond;
+}
+form{
+    background-color:blanchedalmond;
+    width:500px ;
+    height:720px ;
+    padding: 60px;
+    padding-top: 10px;
+    border-top: 50px burlywood solid ;
+}
+.txt{
+    font-size: 35px;
+    text-align: center
+}
+.name{
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   
+}
+
+.submit input{
+      background-color: orange;
+      width: 30%;
+      margin-left:150px;
+      font-size: 29px;
+}
